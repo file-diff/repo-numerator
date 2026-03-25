@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+"""Renumber git commit titles using the built-in git filter-branch command."""
+
 import argparse
 import json
 import os
